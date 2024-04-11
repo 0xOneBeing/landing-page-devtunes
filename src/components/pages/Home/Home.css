@@ -1,0 +1,16 @@
+.home {
+  box-sizing: content-box;
+}
+
+.fa-brands {
+  font-size: 50px;
+}
+
+.tech-icon {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  transition: transform 0.3s ease;
+}
+
+.tech-icon:hover {
+  transform: translateY(-10px);
+}

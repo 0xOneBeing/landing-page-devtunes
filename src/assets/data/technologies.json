@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "HTML 5",
+    "icon": "fa-brands fa-html5",
+    "color": "red"
+  },
+  {
+    "id": 2,
+    "name": "CSS 3",
+    "icon": "fa-brands fa-css3-alt",
+    "color": "orange"
+  },
+  {
+    "id": 3,
+    "name": "JS",
+    "icon": "fa-brands fa-js",
+    "color": "yellow"
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "icon": "fa-brands fa-react",
+    "color": "blue"
+  },
+  {
+    "id": 5,
+    "name": "VueJS",
+    "icon": "fa-brands fa-vuejs",
+    "color": "green"
+  }
+]
